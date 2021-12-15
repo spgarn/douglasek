@@ -38,6 +38,7 @@
 .card__container--closed .card__image {
 	position: relative;
 	cursor: pointer;
+	border-radius: 12px;
 }
 /* Fix IE */
 
