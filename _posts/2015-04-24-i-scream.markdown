@@ -1,8 +1,6 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+title:  "Catch phrase"
+subtitle: "Catchy words for GB glass"
 image: "img/e.jpg"
 date:   2015-04-24 12:12:12
 ---
